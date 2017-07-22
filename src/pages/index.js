@@ -6,7 +6,7 @@ export default class Index extends React.Component {
   render() {
     return (
       <div itemScope itemType="http://schema.org/FinancialProduct">
-        <h1 alt = "Hello">Hi spiders!</h1>
+        <h1 alt = "Hello">Hi spiderssssssss!</h1>
         <p>Welcome to your new Gatsby site.</p>
         <p>Now go build something great.</p>
         <Link to="/page-2/">Go to page 2</Link>
