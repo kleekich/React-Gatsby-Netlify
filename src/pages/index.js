@@ -5,9 +5,10 @@ import Helmet from "react-helmet"
 export default class Index extends React.Component {
   render() {
     return (
+
       <div itemScope itemType="http://schema.org/FinancialProduct">
-        <h1 alt = "Hello My Dear">Hi spidersasdgag!</h1>
-        <p>Welcome to your new Gatsby site!!!!!!!</p>
+        <h1 alt = "Hello My Dear">Hi Mangos!</h1>
+        <p>Welcome to your new Gatsby site!!??????!</p>
         <p>Now go build something great.</p>
         <Link to="/page-2/">Go to page 2</Link>
       </div>
