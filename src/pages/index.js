@@ -5,7 +5,7 @@ import Helmet from "react-helmet"
 export default class Index extends React.Component {
   render() {
     return (
-      <div itemscope itemtype="http://schema.org/FinancialProduct">
+      <div itemScope itemType="http://schema.org/FinancialProduct">
         <h1 alt = "Hello">Hi spiders!</h1>
         <p>Welcome to your new Gatsby site.</p>
         <p>Now go build something great.</p>
