@@ -6,8 +6,8 @@ export default class Index extends React.Component {
   render() {
     return (
       <div>
-        <h1 alt = "Hello">Hi spidersasdgag!</h1>
-        <p>Welcome to your new Gatsby site!!!!!!!</p>
+        <h1 alt = "Hello">Hi Mangos!</h1>
+        <p>Welcome to your new Gatsby site!!??????!</p>
         <p>Now go build something great.</p>
         <Link to="/page-2/">Go to page 2</Link>
       </div>
