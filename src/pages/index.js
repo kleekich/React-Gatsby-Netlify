@@ -10,7 +10,7 @@ export default class Index extends React.Component {
   render() {
     return (
       <div itemscope itemtype="http://schema.org/FinancialProduct">
-        <h1 alt = "hello"> Hi AAAApe!</h1>
+        <h1 alt = "hello"> Hi AAe!</h1>
         <p>Welcome to your new Gatsby site.</p>
         <p>Now go build something great.</p>
         <Link to="/page-2/">Go to page 2</Link>
