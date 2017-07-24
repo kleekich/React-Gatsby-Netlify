@@ -30,7 +30,7 @@ export default class Index extends React.Component {
     return (
       <div>
         <h1 alt = "Hello" itemScope itemType="http://schema.org/Movie">Hi Mans!</h1>
-        <p>Welcome to your new kang????!</p>
+        <p>Welcome to your new ????!</p>
         <p>Now go build something great.</p>
         <Link to="/page-2/">Go to page 2</Link>
          <Grid
