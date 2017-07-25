@@ -17,7 +17,7 @@ export default class Index extends React.Component {
         <Link to="/page-2/">Go to page 2</Link>
 
         <p>
-              <span color="blue">
+              <span sytle="color:blue;">
               <span>High interest </span><span itemProp = "interestRate">2</span> - <span itemProp = "interestRate">4</span>% APY guaranteed.<br />
               </span>
               <span itemProp = "feesAndCommissionsSpecification">Zero fees.</span> All growth.
