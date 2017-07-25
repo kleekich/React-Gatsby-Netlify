@@ -12,7 +12,7 @@ export default class Index extends React.Component {
       <div>
         <h1 alt = "Hello" itemScope itemType="http://schema.org/DepositAccount">
         Hi Mans!</h1>
-        <p>Welcome to your newdfdf ????!</p>
+        <p>Welcome to your new ????!</p>
         <p>Now go build something great.</p>
         <Link to="/page-2/">Go to page 2</Link>
 
